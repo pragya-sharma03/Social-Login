@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>login</title>
+</head>
+<body>
+Welcome 
+<?php 
+ echo($_POST['u']);
+ ?><br><br>
+<a href="Social Login.html"> Log Out</a>
+</body>
+</html>
